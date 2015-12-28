@@ -1,0 +1,367 @@
+init...
+/home/tlstjddls123/Desktop/commons-daemon/conf/http.conf
+/home/tlstjddls123/Desktop/commons-daemon/conf/log.conf
+/home/tlstjddls123/Desktop/commons-daemon/WEB-INF
+LINUX
+zzz
+init OK.
+
+status: STARTED
+start...
+start OK.
+
+LINUX
+======com.iheart.ssi.httpparser.HTTPHeaderParserImpl======
+GET /index.html HTTP/1.1
+Host: 192.168.100.33:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4
+======REQUEST=====DATA==========
+/home/tlstjddls123/Desktop/commons-daemon/WEB-INF/index.html
+true
+처리 다 끝내지 않고 Thread 종료 Stop!!!!!!!!!!
+status: STARTED
+destroy...
+destroy OK.
+
+init...
+/home/tlstjddls123/Desktop/commons-daemon/conf/http.conf
+/home/tlstjddls123/Desktop/commons-daemon/conf/log.conf
+/home/tlstjddls123/Desktop/commons-daemon/WEB-INF
+LINUX
+zzz
+init OK.
+
+status: STARTED
+start...
+start OK.
+
+LINUX
+LINUX
+======com.iheart.ssi.httpparser.HTTPHeaderParserImpl======
+GET /index.html HTTP/1.1
+Host: 192.168.100.33:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4
+======REQUEST=====DATA==========
+/home/tlstjddls123/Desktop/commons-daemon/WEB-INF/index.html
+true
+======com.iheart.ssi.httpparser.HTTPHeaderParserImpl======
+GET /favicon.ico HTTP/1.1
+Host: 192.168.100.33:9999
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+Accept: */*
+Referer: http://192.168.100.33:9999/index.html
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4
+======REQUEST=====DATA==========
+/home/tlstjddls123/Desktop/commons-daemon/WEB-INF/favicon.ico
+false
+LINUX
+LINUX
+======com.iheart.ssi.httpparser.HTTPHeaderParserImpl======
+GET /index.html HTTP/1.1
+Host: 192.168.100.33:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4
+======REQUEST=====DATA==========
+/home/tlstjddls123/Desktop/commons-daemon/WEB-INF/index.html
+true
+LINUX
+LINUX
+======com.iheart.ssi.httpparser.HTTPHeaderParserImpl======
+
+======REQUEST=====DATA==========
+======com.iheart.ssi.httpparser.HTTPHeaderParserImpl======
+
+======REQUEST=====DATA==========
+======com.iheart.ssi.httpparser.HTTPHeaderParserImpl======
+
+======REQUEST=====DATA==========
+LINUX
+======com.iheart.ssi.httpparser.HTTPHeaderParserImpl======
+GET /index.html HTTP/1.1
+Host: 192.168.100.33:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4
+======REQUEST=====DATA==========
+/home/tlstjddls123/Desktop/commons-daemon/WEB-INF/index.html
+true
+LINUX
+LINUX
+======com.iheart.ssi.httpparser.HTTPHeaderParserImpl======
+
+======REQUEST=====DATA==========
+======com.iheart.ssi.httpparser.HTTPHeaderParserImpl======
+
+======REQUEST=====DATA==========
+처리 다 끝내지 않고 Thread 종료 Stop!!!!!!!!!!
+status: STARTED
+destroy...
+destroy OK.
+
+init...
+/home/tlstjddls123/Desktop/commons-daemon/conf/http.conf
+/home/tlstjddls123/Desktop/commons-daemon/conf/log.conf
+/home/tlstjddls123/Desktop/commons-daemon/WEB-INF
+LINUX
+zzz
+init OK.
+
+status: STARTED
+start...
+start OK.
+
+LINUX
+======com.iheart.ssi.httpparser.HTTPHeaderParserImpl======
+GET /index.html HTTP/1.1
+Host: 192.168.100.33:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4
+======REQUEST=====DATA==========
+/home/tlstjddls123/Desktop/commons-daemon/WEB-INF/index.html
+true
+처리 다 끝내지 않고 Thread 종료 Stop!!!!!!!!!!
+status: STARTED
+destroy...
+destroy OK.
+
+init...
+/home/tlstjddls123/Desktop/SSI_HTTP_Server_Linux/conf/http.conf
+/home/tlstjddls123/Desktop/SSI_HTTP_Server_Linux/conf/log.conf
+/home/tlstjddls123/Desktop/SSI_HTTP_Server_Linux/WEB-INF
+LINUX
+zzz
+init OK.
+
+status: STARTED
+start...
+start OK.
+
+LINUX
+======com.iheart.ssi.httpparser.HTTPHeaderParserImpl======
+GET /index.html HTTP/1.1
+Host: 192.168.100.33:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4
+======REQUEST=====DATA==========
+/home/tlstjddls123/Desktop/SSI_HTTP_Server_Linux/WEB-INF/index.html
+true
+처리 다 끝내지 않고 Thread 종료 Stop!!!!!!!!!!
+status: STARTED
+destroy...
+destroy OK.
+
+init...
+/home/tlstjddls123/Desktop/SSI_HTTP_Server_Linux/conf/http.conf
+/home/tlstjddls123/Desktop/SSI_HTTP_Server_Linux/conf/log.conf
+/home/tlstjddls123/Desktop/SSI_HTTP_Server_Linux/WEB-INF
+LINUX
+zzz
+init OK.
+
+status: STARTED
+start...
+start OK.
+
+처리 다 끝내지 않고 Thread 종료 Stop!!!!!!!!!!
+status: STARTED
+destroy...
+destroy OK.
+
+init...
+/home/tlstjddls123/Desktop/SSI_HTTP_Server_Linux/conf/http.conf
+/home/tlstjddls123/Desktop/SSI_HTTP_Server_Linux/conf/log.conf
+/home/tlstjddls123/Desktop/SSI_HTTP_Server_Linux/WEB-INF
+LINUX
+zzz
+init OK.
+
+status: STARTED
+start...
+start OK.
+
+?? ? ??? ?? Thread ?? Stop!!!!!!!!!!
+status: STARTED
+destroy...
+destroy OK.
+
+init...
+/home/tlstjddls123/Desktop/test/conf/http.conf
+/home/tlstjddls123/Desktop/test/conf/log.conf
+/home/tlstjddls123/Desktop/test/WEB-INF
+LINUX
+zzz
+init OK.
+
+status: STARTED
+start...
+start OK.
+
+LINUX
+LINUX
+LINUX
+LINUX
+======com.iheart.ssi.httpparser.HTTPHeaderParserImpl======
+GET /index.html HTTP/1.1
+Host: 192.168.100.33:9999
+Connection: keep-alive
+Accept: text/html,application/xhtml xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4
+======REQUEST=====DATA==========
+/home/tlstjddls123/Desktop/test/WEB-INF/index.html
+true
+======com.iheart.ssi.httpparser.HTTPHeaderParserImpl======
+GET /favicon.ico HTTP/1.1
+Host: 192.168.100.33:9999
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+Accept: */*
+Referer: http://192.168.100.33:9999/index.html
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4
+======REQUEST=====DATA==========
+/home/tlstjddls123/Desktop/test/WEB-INF/favicon.ico
+false
+======com.iheart.ssi.httpparser.HTTPHeaderParserImpl======
+
+======REQUEST=====DATA==========
+======com.iheart.ssi.httpparser.HTTPHeaderParserImpl======
+
+======REQUEST=====DATA==========
+처리 다 끝내지 않고 Thread 종료 Stop!!!!!!!!!!
+status: STARTED
+destroy...
+destroy OK.
+
+init...
+/home/tlstjddls123/Desktop/test/conf/http.conf
+/home/tlstjddls123/Desktop/test/conf/log.conf
+/home/tlstjddls123/Desktop/test/WEB-INF
+LINUX
+zzz
+init OK.
+
+status: STARTED
+start...
+start OK.
+
+LINUX
+LINUX
+======com.iheart.ssi.httpparser.HTTPHeaderParserImpl======
+GET /index.html HTTP/1.1
+Host: 192.168.100.33:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4
+======REQUEST=====DATA==========
+LINUX
+/home/tlstjddls123/Desktop/test/WEB-INF/index.html
+true
+======com.iheart.ssi.httpparser.HTTPHeaderParserImpl======
+POST /second.html HTTP/1.1
+Host: 192.168.100.33:9999
+Connection: keep-alive
+Content-Length: 65
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Origin: http://192.168.100.33:9999
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: http://192.168.100.33:9999/index.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4
+
+tableKey=1&tableValue=김승찬&name=zzz&age=zz
+======REQUEST=====DATA==========
+/home/tlstjddls123/Desktop/test/WEB-INF/second.html
+true
+======com.iheart.ssi.httpparser.HTTPHeaderParserImpl======
+
+======REQUEST=====DATA==========
+LINUX
+LINUX
+LINUX
+======com.iheart.ssi.httpparser.HTTPHeaderParserImpl======
+GET /second.html HTTP/1.1
+Host: 192.168.100.33:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4
+======REQUEST=====DATA==========
+/home/tlstjddls123/Desktop/test/WEB-INF/second.html
+true
+처리 다 끝내지 않고 Thread 종료 Stop!!!!!!!!!!
+status: STARTED
+destroy...
+destroy OK.
+
+init...
+/home/tlstjddls123/Desktop/test/conf/http.conf
+/home/tlstjddls123/Desktop/test/conf/log.conf
+/home/tlstjddls123/Desktop/test/WEB-INF
+LINUX
+zzz
+init OK.
+
+status: STARTED
+start...
+start OK.
+
+LINUX
+======com.iheart.ssi.httpparser.HTTPHeaderParserImpl======
+GET /second.html HTTP/1.1
+Host: 192.168.100.33:9999
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ko-KR,ko;q=0.8,en-US;q=0.6,en;q=0.4
+======REQUEST=====DATA==========
+/home/tlstjddls123/Desktop/test/WEB-INF/second.html
+true
