@@ -1,5 +1,6 @@
 # SSI_HTTP_Server_Linux
 
-1. ÀÌ ÇÁ·ÎÁ§Æ®´Â LinuxÈ¯°æ¿¡ ÃÖÀûÈ­ µÇ¾îÀÖ½À´Ï´Ù.
+1. ì´ í”„ë¡œì íŠ¸ëŠ” Linuxí™˜ê²½ì— ìµœì í™” ë˜ì–´ìžˆìŠµë‹ˆë‹¤.
 
-½ÇÇà ¹æ¹ýÀº /doc/½ÃÀÛ¸Þ´º¾ó/SSI_HTTP_Menual_Linux.doc ÆÄÀÏÀ» Á¤µ¶ÇÏ¼¼¿ä.
+2. ê° OSë³„ JRE(Java Runtime Environment) ê°€ ì„¤ì¹˜ ë˜ì–´ ìžˆì–´ì•¼ í•©ë‹ˆë‹¤.
+ã…‡ã…‡\
