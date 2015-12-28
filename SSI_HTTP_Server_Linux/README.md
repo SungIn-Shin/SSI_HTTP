@@ -4,13 +4,9 @@
 
 2. 각 OS별 JRE(Java Runtime Environment) 가 설치 되어 있어야 합니다.
 
-## 이건뭐지
-ㅋㅋㅋㅋ
-
-```java
-hello java
+## 디렉토리 구조
 ```
-
-```xml
- hello xml
+		SSI_HTTP_Server_Linux
+			aaa
+	
 ```
