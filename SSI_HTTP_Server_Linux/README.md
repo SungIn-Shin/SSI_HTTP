@@ -4,8 +4,4 @@
 
 2. 각 OS별 JRE(Java Runtime Environment) 가 설치 되어 있어야 합니다.
 
-'''java
-  public void main(){
-  }
-  
-'''
+## 이건뭐지
