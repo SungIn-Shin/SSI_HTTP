@@ -7,7 +7,7 @@ HTTP Parser와 Logger를 기존에 제공하는 API를 사용하지 않고, 필�
 # 참고하세요
 1. 이 프로젝트는 Windows, Linux 버전 중 Windows버전입니다. 두 프로젝트의 코드는 동일하나 OS별 백그라운드 프로세스(데몬 프로세스)를 만드는 방법을 JavaService(Windows), Apache commons Daemon(Linux) 두가지로 나누어 사용하였습니다. Java Service Wrapper를 사용하면 하나의 프로젝트로 통합시킬 수 있지만 현재 Java Service Wrapper가 64비트 버전을 유료로 배포하고 있어서 무료 라이브러리를 사용하기 위해 두가지 방법을 사용하였습니다.
 
-2. 각 OS별 JDK 7 (Java Development Key) 이상이 필요합니다. 설치가 되어 있지 않으시다면, 혹은 모르시다면 이 문서를 확인하시길 바랍니다.
+2. 각 OS별 JDK 7 (Java Development Key) 이상이 필요합니다.
 
 ## 디렉토리 구조
 ```dir
