@@ -15,3 +15,5 @@ Java Service Wrapper 라이브러리를 사용하면 위의 두 라이브러리�
 현재 Java Service Wrapper는 64bit 운영체제를 유상으로 제공하고 있어 사용하지 않았습니다.
 
 SungIn2 가 README.dm 파일을 수정하여 Pull Request 테스트를 합니다.
+
+test-branch 에서 작성한 글입니다.
